@@ -3,6 +3,7 @@
 ## Web Developer and Creative Technologist 💻👾
 
  My interest in web programming is the result of my artistic and teaching work with technologies and design. I am an interdisciplinary person, in a constant learning process. My curiosity and passion makes me delve into the guts of software to make complexity accessible.   
+- 🔭 I’m currently working on Laboratoria as Front-end developer
 - ✉️ You can contact me at marianne.teixido@gmail.com    
 - 🧠 I'm learning __ReactJS__ and __Machine Learning__. _Angular soon !_
 - 🤝 I'm open to collaborate on Open Source or artistic projects with technologies      
