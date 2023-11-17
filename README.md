@@ -1,6 +1,6 @@
 # Hi 👋 My name is Marianne Teixidó
 
-## Web Developer 💻👾
+## Web Developer and Creative Technologist 💻👾
 
  My interest in web programming is the result of my artistic and teaching work with technologies and design. I am an interdisciplinary person, in a constant learning process. My curiosity and passion makes me delve into the guts of software to make complexity accessible.   
 - ✉️ You can contact me at marianne.teixido@gmail.com    
