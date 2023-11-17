@@ -1,4 +1,6 @@
-# Hi 👋 My name is Marianne Teixidó
+# Hi <img src="https://media.giphy.com/media/xAqHUL21pMHe0/giphy.gif" width="45px"></a>
+
+My name is Marianne Teixidó
 
 ## Web Developer and Creative Technologist 💻👾
 
