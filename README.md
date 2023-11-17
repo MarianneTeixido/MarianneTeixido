@@ -8,5 +8,5 @@ My interest in web programming is the result of my artistic and teaching work wi
 - 🧠  I'm learning ReactJS, Angular and Audio Neural Networks
 - 🤝  I'm open to collaborate on Open Source or artistic projects with technologies
 - 🔭 I’m currently working on [CENTRO](https://centro.edu.mx)
-- 😄 Pronouns: she/her, they/them, he/him
+- 🤖 Pronouns: she/her, they/them, he/him
 
