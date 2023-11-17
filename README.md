@@ -1,4 +1,4 @@
-# Hi 👋 My name is Marianne Teixido
+# Hi 👋 My name is Marianne Teixidó
 
 ## Web Developer 💻👾
 
